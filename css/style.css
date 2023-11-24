@@ -1,0 +1,132 @@
+* {
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    width: 136px;
+    height: 91px;
+}
+
+body {
+    background-color: #000000;
+    width: auto;
+}
+
+h1 {
+    color: red;
+    background-color: black;
+    font-size: 70px;
+    border-right: 5px solid blue;
+    border-left: 5px solid blue;
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+a {
+    font-size: 30px;
+}
+
+
+.gif-1 {
+    height: 5px;
+    width: 1200px;
+}
+
+#gif-2 {
+    height: 5px;
+    width: 1000px;
+}
+
+#soroush-logo {
+    height: 100px;
+    width: 100px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #005555;
+}
+
+
+#incognito {
+    height: 250px;
+    width: 250px;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: green;
+}
+
+#abc {
+    color: red;
+}
+
+label {
+    color: green;
+}
+
+.cc {
+    color: red;
+}
+
+aside {
+    width: auto;
+    height: auto;
+}
+
+#join {
+    color: green;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: x-large;
+}
+
+#login {
+    color: green;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: x-large;
+}
+
+.mp:hover {
+    opacity: 0.8;
+}
+
+input:hover {
+    opacity: 0.8;
+}
+
+hr {
+    color: red;
+}
